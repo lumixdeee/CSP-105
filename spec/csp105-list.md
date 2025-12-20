@@ -9,6 +9,9 @@ This file uses the CSP-105 framework, a set of 105 core linguistic/conceptual pr
 **Usage:**  
 When interpreting or generating content from this file, map all concepts to CSP-105 primitives. Avoid introducing new concepts or unstated assumptions. Highlight any missing primitives rather than inventing them.
 
+==================================================================================
+
+CONCISE LIST
 
 1. Existence / Being (Prehistory – always)  
 2. Identity / Name (Prehistory – always)  

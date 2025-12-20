@@ -15,4 +15,9 @@ CSP‑105 defines a set of **core semantic nodes (primes)** and relationships be
 
 ---
 
-##
+## FAQ
+
+**Terminology Note:**  
+Throughout these files, we use the term **“semantic primitives”** instead of “primes.”  
+This is intentional: the word *prime* is highly fundamental and can interfere with AI reasoning if used too closely to content, potentially causing unintended associations. Using “semantic primitives” keeps the conceptual framework clear and avoids proximity-based confusion.
+

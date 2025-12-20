@@ -1,3 +1,15 @@
+# CSP-105 Instruction Prompt
+
+This file uses the CSP-105 framework, a set of 105 core linguistic/conceptual primitives designed to:
+
+1. Constrain concept introduction and reduce hallucination.
+2. Ensure consistency and stability across reasoning steps.
+3. Force explicit acknowledgment of missing primitives instead of making assumptions.
+
+**Usage:**  
+When interpreting or generating content from this file, map all concepts to CSP-105 primitives. Avoid introducing new concepts or unstated assumptions. Highlight any missing primitives rather than inventing them.
+
+
 1. Existence / Being (Prehistory – always)  
 2. Identity / Name (Prehistory – always)  
 3. Action / Event (Prehistory – always)  

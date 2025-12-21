@@ -15,6 +15,10 @@ CSP‑105 defines a set of **core semantic nodes (primes)** and relationships be
 
 ---
 
+If you cloned this, you’re invited to open an issue with how you interpret CSP-105.
+
+---
+
 ## FAQ
 
 # Terminology Note # 

@@ -1,0 +1,60 @@
+// DOMAIN SEPARATION: LOGIC vs SPEECH / MEANING
+
+MODULE Logic {
+    type: FormalSymbol
+    rules: InferenceRules
+    operates_on: Syntax
+    guarantees: Validity (if premises true)
+    ignores: Context, Intent, Pragmatics
+}
+
+MODULE SpeechMeaning {
+    type: NaturalLanguage
+    operates_on: Semantics + Pragmatics
+    depends_on: Context, Shared Assumptions, Culture
+    guarantees: Communicative Effect (not truth)
+    allows: Ambiguity, Metaphor, Drift
+}
+
+// COMMON FAILURE MODES WHEN CONFLATED
+
+FAILURE CategoryError {
+    cause: Treating speech acts as formal proofs
+    symptom: Grammatically coherent ≈ logically valid
+}
+
+FAILURE Equivocation {
+    cause: Term meaning shifts unnoticed
+    symptom: Conclusions appear derived but rest on drift
+}
+
+FAILURE RhetoricAsProof {
+    cause: Persuasive fluency mistaken for inference
+    symptom: Confidence substituted for validity
+}
+
+FAILURE FalseObjectivity {
+    cause: Logical form masks unexamined premises
+    symptom: Disagreement framed as “illogical”
+}
+
+FAILURE AIOvertrust {
+    cause: Fluent language assumed to be reasoning
+    symptom: Confident errors pass review
+}
+
+// CORRECTIVE PATTERN
+
+CHECK Argument {
+    step1: Validate inference form (Logic)
+    step2: Stabilize terms (Semantics)
+    step3: Inspect intent + effect (Pragmatics)
+}
+
+// RULE OF THUMB
+
+RULE {
+    Logic ≠ Meaning
+    Validity ≠ Truth
+    Coherence ≠ Correctness
+}

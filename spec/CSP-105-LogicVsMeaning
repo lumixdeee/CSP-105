@@ -138,3 +138,38 @@ NOTES / MISREADINGS TO AVOID
 
 This page is a diagnostic lens, not a doctrine.
 Use it to detect category errors, not to found a system.
+
+
+====================================================================================
+
+expample
+
+TITLE: Agreement Resolution Procedure (ARP-0)
+
+PURPOSE
+Determine whether two statements are in agreement.
+
+INPUT
+- Statement A
+- Statement B
+
+PROCEDURE
+1. Normalize A and B.
+2. Extract their meanings.
+3. Compare meanings for equivalence.
+4. If equivalent, return AGREE.
+5. If not equivalent, return DISAGREE.
+
+DEFINITIONS
+- Statement: any declarative utterance.
+- Normalize: remove irrelevant variation.
+- Meaning: the content intended by the statement.
+- Equivalence: sameness of meaning.
+
+CONSTRAINTS
+- The procedure must be deterministic.
+- The same inputs must always yield the same output.
+- No external context may be consulted.
+
+OUTPUT
+- AGREE or DISAGREE

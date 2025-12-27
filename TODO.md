@@ -1,8 +1,7 @@
-# Project TO DO
+# Project TODO
 
- [ ] Convert primitives data into structured database format
- [ ] Create primitives dependency diagram
- [ ] Redo date fields for consistency
- [ ] Investigate newly developed prompts
- [ ] Troubleshoot broken prompts
- [ ] Prepare for alt budget (5 April)
+- [ ] Convert data into structured database format
+- [ ] Redo date fields for consistency
+- [ ] Investigate prompts and troubleshoot broken ones
+- [ ] Create primitives dependency diagram
+- [ ] Prepare for budget review (5 April)

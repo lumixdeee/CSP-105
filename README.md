@@ -19,14 +19,6 @@ If you cloned this, you’re invited to open an issue with how you interpret CSP
 
 ---
 
-# CSP-105 Mogri Labs
-
-**Keywords:** CSP-105, Mogri, example, tutorial, semantic, AI, chatGPT, modelling, myth, meme
-
-This repository contains hands-on experiments, notes, and explorations related to CSP-105 and Mogri concepts...
-
----
-
 ## FAQ
 
 # Terminology Note # 
@@ -39,3 +31,13 @@ Map all concepts to the 105 **semantic primitives**.
 Do not invent new concepts or unstated assumptions.  
 Highlight missing primitives rather than filling gaps.  
 Maintain consistency and avoid drifting meanings.
+
+---
+
+# CSP-105 Mogri Labs
+
+**Keywords:** CSP-105, Mogri, example, tutorial, semantic, AI, chatGPT, modelling, myth, meme
+
+This repository contains hands-on experiments, notes, and explorations related to CSP-105 and Mogri concepts...
+
+---

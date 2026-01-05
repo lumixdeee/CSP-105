@@ -7,3 +7,4 @@
 - [ ] Prepare for budget review (5 April)
 - [ ] Remove 100000 .svg object limit upstream
 - [ ] Faces of Mogrito db
+- [ ] Scales of the Dragon

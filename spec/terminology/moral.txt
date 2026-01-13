@@ -26,7 +26,7 @@ measure whether something works.
 
 Seen this way, “clean/dirty” functions as a moral compressor masquerading as
 a technical descriptor. It travels well, but it tests badly. Replacing it
-with functional language restores process health. Terms like adequate,
+with functional language will improve the process. Terms like adequate,
 suboptimal, passes criteria, or within tolerance keep evaluation tied to
 observable conditions and preserve the ability to revise judgments as
 systems change.

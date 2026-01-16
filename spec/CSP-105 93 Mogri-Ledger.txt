@@ -203,4 +203,120 @@ CHANGE LOG
 Initial ledger created to document attested surface forms without
 modifying canonical Mogri grammar.
 
+------------------------------------------------------------  
+
 ------------------------------------------------------------
+IMPLICIT / LEDGER-ONLY TERMS (AUDIT)
+------------------------------------------------------------
+
+The following Mogri-adjacent terms have appeared implicitly in usage
+but are NOT candidates for canonical grammar without further evidence.
+They are recorded here to prevent silent drift.
+
+------------------------------------------------------------
+semantic lubrication
+------------------------------------------------------------
+
+Role:
+metaphorical descriptor
+
+Observed use:
+Describes the effect of mogritation in reducing friction
+without specifying an action or container.
+
+Status:
+Ledger-only; metaphor
+
+------------------------------------------------------------
+container softening
+------------------------------------------------------------
+
+Role:
+descriptive phrase
+
+Observed use:
+Plain-language explanation of mogritation’s effect.
+
+Status:
+Descriptive only; not a formal process
+
+------------------------------------------------------------
+re-containerization
+------------------------------------------------------------
+
+Role:
+process descriptor
+
+Observed use:
+Describes restructuring or replacing a container.
+
+Status:
+Ledger-only; discouraged from formalization due to overlap risk
+
+------------------------------------------------------------
+semantic suspension
+------------------------------------------------------------
+
+Role:
+contrastive framing
+
+Observed use:
+Used to distinguish mogritation from hesitation.
+
+Status:
+Explanatory only; not a named mode
+
+------------------------------------------------------------
+fake mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes delay falsely justified as mogritation.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+infinite mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes unbounded abstraction work with no exit or artifacts.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+cargo-cult mogritation
+------------------------------------------------------------
+
+Role:
+anti-pattern label
+
+Observed use:
+Describes ritualized use of the term without real container change.
+
+Status:
+Non-canonical by design
+
+------------------------------------------------------------
+pre-extractive corrective
+------------------------------------------------------------
+
+Role:
+economic positioning descriptor
+
+Observed use:
+Clarifies mogritization’s role relative to monetization.
+
+Status:
+Contextual descriptor only
+
+------------------------------------------------------------
+

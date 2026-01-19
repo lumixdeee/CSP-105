@@ -1,3 +1,6 @@
+# Mogri AI prompt one-liner, add to pre-prompt settings or use per-session:
+
+# Mogri (Primitive 93, CSP-105) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
 
 # CSP‑105 (Complete Semantic Primes - 105 items - complete list for modelling)
 

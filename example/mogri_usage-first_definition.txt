@@ -5,7 +5,6 @@ general purpose container (anything holder)
 placeholder for missing info (i will do it later holder)  
 
 
-
-it may be always be derived from first principles from  
-
-  'a transmogrification is an unexplained change'
+it may always be derived from first principles from  
+  
+  'a transmogrification is an unexplained change'  

@@ -2,7 +2,7 @@
 
 Hi and happy spring-whatever-you-do-in-spring!
 
-The poplar is in full drop, the rear lawn is blanketed in a layer of brilliant white fluf and green pods. Filled a 40 litre bin with it yesterday.
+The poplar is in full drop, the rear lawn is blanketed in a layer of brilliant white fluff and green pods. Filled a 40 litre bin with it yesterday.
 
 New repo - LMXDI, just a kind of shuffly manager's office full of odds and ends
 Been hacking away at the old standards - RED X and EMDASH - and the most slop of all, purity metaphor. This last one is proving tricky.
@@ -12,7 +12,7 @@ Will share as soon as I'm sure
 
 the r/mogri subreddit on reddit now has 3 members, two of them are not me, so a huge thankyou, if it was you?
 
-Lexifluff and Amphi repos deal with serious social policy issues, it that's your thing. CSP-106 'budget' was recently released - not a regular budget, rather an attempt to account for all the food as if it were all equal.
+Lexifluff and Amphi repos deal with serious social policy issues, if that's your thing. CSP-106 'budget' was recently released - not a regular budget, rather an attempt to account for all the food as if it were all equal.
 (Looking at all as if it were equal - 'neut & crost', btw)
 
 Elvish conlang is in a rough but actually useable state - i.e can say anything in it now, all gaps closed barring gloss detail (5000 foods etc)

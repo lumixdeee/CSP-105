@@ -1,4 +1,4 @@
-Below is a section-by-section classification against your numbered rationale - https://github.com/lumixdeee/CSP-105/blob/main/DragonHPD/Tool-Assisted-Runtime/Important-Info.txt , marking IN KERNEL vs MODIFIER, with brief justification in-runtime terms (not pedagogy).
+Below is a section-by-section classification against your numbered rationale - https://github.com/lumixdeee/CSP-106/blob/main/DragonHPD/Tool-Assisted-Runtime/Important-Info.txt , marking IN KERNEL vs MODIFIER, with brief justification in-runtime terms (not pedagogy).
 
 TXT-only / ASCII only / NOIMG?
 MODIFIER

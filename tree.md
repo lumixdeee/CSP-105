@@ -102,8 +102,8 @@ Base ref: `main` (change this to a tag/commit if you want a frozen snapshot).
 
   - [CSP-106-(104)-list.md](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-%28104%29-list.md)
   - [CSP-106-(104)-list.md](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-%28104%29-list.md)
-  - [CSP-106-93 Mogri-Definition](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-93%20Mogri-Definition)
-  - [CSP-106-93-Mogri-Use](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-93-Mogri-Use)
+  - [CSP-106-94 Mogri-Definition](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-94%20Mogri-Definition)
+  - [CSP-106-94-Mogri-Use](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-94-Mogri-Use)
   - [CSP-106-Irgom-Slot79-Use](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-Irgom-Slot79-Use)
   - [CSP-106-LogicVsMeaning](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-LogicVsMeaning)
   - [CSP-106-Structure](https://github.com/lumixdeee/CSP-106/blob/main/spec/CSP-106-Structure)

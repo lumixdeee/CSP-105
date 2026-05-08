@@ -1,1 +1,1 @@
-https://github.com/lumixdeee/mogri/blob/main/spec/CSP-105%2093%20Mogri-Grammar-Use-Vs-Misuse
+https://github.com/lumixdeee/mogri/blob/main/spec/CSP-106%2094%20Mogri-Grammar-Use-Vs-Misuse

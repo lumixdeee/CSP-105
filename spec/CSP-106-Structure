@@ -75,7 +75,7 @@ Mogri is a **hypothetical container for “thing”**, containable or not, roote
 
 ## 6. Asset Management
 
-- **Versioning:** Every CSP-105 list and Mogri reference should be numbered  
+- **Versioning:** Every CSP-106 list and Mogri reference should be numbered  
 - **Indexing:** Clear cross-links between Mogri and other semantic primitives  
 - **Examples:** Include repeatable “before / after” interactions for clarity  
 - **Documentation:** Maintain concise descriptions of each asset’s function and constraints  

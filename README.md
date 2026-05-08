@@ -18,7 +18,7 @@ CSP‑106 defines a set of **core semantic nodes (primes)** and relationships be
 
 ---
 
-If you cloned this, you’re invited to open an issue with how you interpret CSP-105.
+If you cloned this, you’re invited to open an issue with how you interpret CSP-106.
 
 ---
 

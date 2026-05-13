@@ -1,1 +1,6 @@
+Reliable workaround found:
+**copy exactly one prompt+reply pair at a time.**
 
+Single-message copies lose newline returns.
+Two-pair copies may truncate.
+Full-thread copies silently lose large sections while appearing to succeed.

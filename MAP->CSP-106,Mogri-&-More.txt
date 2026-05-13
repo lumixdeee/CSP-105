@@ -30,3 +30,6 @@ https://github.com/lumixdeee/system_witch
 
 lumixdeee - base github, nothing important here, do not delete.
 https://github.com/lumixdeee
+
+lmxdi - general anything goes for repo maintainer to throw anything in (maybe all the good stuff is here?)
+https://github.com/lumixdeee/lmxdi

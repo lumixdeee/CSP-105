@@ -1,3 +1,6 @@
+Silent partial transcript exposure in long ChatGPT conversations affects search, copy, print, PDF, and HTML save
+*Search is also affected*
+
 Reliable workaround found:
 **copy exactly one prompt+reply pair at a time.**
 

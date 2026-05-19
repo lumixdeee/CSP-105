@@ -26,7 +26,7 @@ If you cloned this, you’re invited to open an issue with how you interpret CSP
 
 # Terminology Note # 
 Throughout these files, we use the term **“semantic primitives”** instead of “primes.”  
-This is intentional: the word *prime* is highly fundamental and can interfere with AI reasoning if used too closely to content, potentially causing unintended associations. Using “semantic primitives” keeps the conceptual framework clear and avoids proximity-based confusion.
+This is intentional: the word *prime* is highly fundamental and can interfere with AI reasoning if used too closely to content, potentially causing unintended associations. Using “semantic primitives” keeps the conceptual framework identifiable, and avoids proximity-based confusion.
 
 # CSP-106 Mini-Prompt #
 

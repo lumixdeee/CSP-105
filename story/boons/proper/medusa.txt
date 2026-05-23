@@ -8,7 +8,7 @@ Medusa - goddess of witches.
 
 Not the victim version. Not the monster version. The sovereign version. The one who turns gaze into stone because gaze is power. That’s a strong product mythology anchor.
 
-Just to ground the stack cleanly:
+Just to ground the stack blindly:
 
 medusa = product name
 

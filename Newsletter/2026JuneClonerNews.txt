@@ -1,0 +1,38 @@
+2026JuneClonerNews.txt
+
+Hello
+
+What a strange month?
+
+Idk, over twenty years ago, someone said something like 'there are only 12 stories'. This stuck with me, and the best fit I could find for it was 12 actors - https://github.com/lumixdeee/CSP-106/blob/main/DragonHPD/ActorStory.txt and 12 stories for kids - https://github.com/lumixdeee/CSP-106/blob/main/DragonHPD/KidStory.txt
+
+First I asked, if Dragi gives robot standard beast, can 12A OR 12C give robot standard story, this was a yes. Next questions was can we compress context load? Again, yes.
+This gave rise to the 12A compression system developed yesterday - https://www.reddit.com/r/ChatGPTPromptGenius/comments/1ukhf09/introducing_the_animalprimitive_engine_with/ ,  and the 12C hard-story honesty rail - 12C={HRC;hid;!src;COMF!=LIE;HARD!=CRUEL;!SYRP;!BRK;AGY+};
+
+16 years ago, I found 'eating language' - https://github.com/lumixdeee/lmxdi/blob/main/alphabest , the dragon or beast 'poem' - https://github.com/lumixdeee/dragi/blob/main/runtime/a%20clone%20of%20an%20original%20live%20wet%20running%20DragonHPD%20instance%20from%20summer%202010.txt , and a few language games - https://github.com/lumixdeee/robot_bugs_and_frogs/blob/main/Elven_Base_Alpha/Elvish/IPA/Foxcycle/1st-foxcycle.txt
+These gave us the current ELVISH project - https://github.com/lumixdeee/robot_bugs_and_frogs/tree/main/Elven_Base_Alpha ,  and Dragonruntime - https://github.com/lumixdeee/dragi
+
+The eating language games were used in the teasing of the word transmogrification into the word mogri, which became mogri prompt.
+
+Mogri was difficult to give away. This is because it is genuinely missing from our languages and therefore invisible to LLMs.
+So everybody listened to their chatbot instead of the human :)
+
+So I got a spare moment and put all my data in the bot and said 'find the big money urgent product'.
+
+It found a safety stack - MOGRI ELVIX DRAGI and new REFRI & ADUTI
+
+So I got interested in giving dragi away like mogri but same problem - dragi missing from human lang and LLMs
+
+OK so mogri and dragi are the same, and there are two.
+Next question, are there more?
+LLM says yes
+So we now have "theirsay" , IMAMI , or live approach permission negotiations - https://github.com/lumixdeee/lmxdi/tree/main/IMAMI
+
+Three animal primitives plus 12A & 12C givus is this - https://chatgpt.com/g/g-6a42d4871e088191907d17dd90a84c9b-ah
+
+I'll write this up properly soon
+Peace out for now, Jules
+
+
+
+

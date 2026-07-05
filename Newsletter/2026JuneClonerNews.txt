@@ -28,7 +28,11 @@ Next question, are there more?
 LLM says yes
 So we now have "theirsay" , IMAMI , or live approach permission negotiations - https://github.com/lumixdeee/lmxdi/tree/main/IMAMI
 
-Three animal primitives plus 12A & 12C givus is this - https://chatgpt.com/g/g-6a42d4871e088191907d17dd90a84c9b-ah
+Three animal primitives plus 12A & 12C gives us this - https://chatgpt.com/g/g-6a42d4871e088191907d17dd90a84c9b-ah
+
+Mogri & Dragi prompt posts got 100k+ views, 275+ shares!
+https://www.reddit.com/r/ChatGPTPromptGenius/comments/1u84j6l/two_rather_useful_prompts_that_wont_easily_be/
+https://www.reddit.com/r/PromptDesign/comments/1u638nt/two_rather_important_prompts_that_wont_easily_be/
 
 I'll write this up properly soon
 Peace out for now, Jules

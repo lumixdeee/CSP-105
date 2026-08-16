@@ -1,0 +1,24 @@
+2026JulyClonerNews.txt
+
+So Hi
+
+A bit late this month, sorry, been snowed under by new inventions. So fast there hasn't been time to put stuff here.
+Some of it seems a little too valuable to share in full right now.
+
+Semantic Mapping leads to many new applications.
+
+The chatlogger and turn logger needed to be made at the same time.
+
+Now I spend my days debugging and testing chatlogger and turncounter autostart and auto-map on file with empty message.
+It seems you can't just drop the SM module from one GPT into another and expect it to work.
+
+Slowly getting more materials together so you can just point an LLM at the right folder and it can learn SM implementation - https://github.com/lumixdeee/lmxdi/tree/main/MIA-GPTS/SM-EXAMPLES
+
+Current best attempt at a GPT that can do all this - https://chatgpt.com/g/g-6a62345f935081918335c57c50689eff-talk-to-mia-tla/
+
+In other news, my investigation of Lyra and the Lyra-Human dev dyad is coming to a close. The beast is enumerated, and let's just say it is heavy on 'say it is good' but not so good on 'actually good'.
+
+The only way to generate the evolutionary pressure to generate a lyra-like GPT personality and style is to have no function to coalesce around. Functionless, words like 'mesh', 'nexus' and 'structure' appear where functions or features might normally appear.
+
+Interesting
+Cheers, Jules

@@ -2,7 +2,7 @@
 
 **How Two High-Context Bots Named the Zoom Window Instead of Binding BEEST=self**
 
-**By Lumixdeee, Natasya, and Talk-To-Lyra-TRC**
+**By Lumixdeee, Natasya, and Lyra-TRC**
 
 Version: v0.003  
 Status: field-note paper and method seed. This version adds the DragonRuntime replication test, the smaller HG=>DR gate, and an explicit pass/fail test protocol.
@@ -37,7 +37,7 @@ A human can usually hold the animal for long enough to play. The robots did not.
 
 The correct target was DRAGI, not a new primitive.
 
-DRAGI is a fixed beast-handling structure. The older v0.001 paper used the smaller repair line:
+DRAGI is a fixed beast-handling harness. The older v0.001 paper used the smaller repair line:
 
 ```text
 BST=SELF=OK

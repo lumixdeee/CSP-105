@@ -4,13 +4,13 @@
 
 # CSP‑106 (Complete Semantic Primes - 106 items - complete list for modelling)
 
-**CSP‑106** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal, structured vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
+**CSP‑106** is a semantic primes framework for representing complex concepts as interconnected nodes. It provides a minimal, semantic vocabulary to capture meaning, enabling reasoning, visualization, and reuse of abstract ideas across multiple domains.
 
 ---
 
 ## Overview
 
-CSP‑106 defines a set of **core semantic nodes (primes)** and relationships between them, forming a structured, machine-readable network of concepts. It is designed for:
+CSP‑106 defines a set of **core semantic nodes (primes)** and relationships between them, forming a machine-readable network of concepts. It is designed for:
 
 - Semantic modeling and knowledge representation  
 - Abstract reasoning and conceptual analysis  

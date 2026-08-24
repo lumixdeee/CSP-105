@@ -51,7 +51,7 @@ The names are deliberately old-fashioned. That is part of their strength. They a
 
 A King route asks who governs. A Queen route asks who holds court, relation, legitimacy, or counter-power. A Prince route asks what is becoming. Loki asks what breaks, swaps, jokes, lies, frees, or tricks. Steed asks what carries. Healer asks what mends. Soldier asks what fights. Merchant asks what trades. Teacher asks what transmits. Dragon asks what blocks or hoards. Princess asks what is desired, captured, future-bearing, or used as prize. Witch asks who is excluded, feared, wise, cursed, or not invited.
 
-These are not personalities. They are pressure routes. A single character can carry several. A whole team can distribute them. A scene can fail when too many routes compete without enough structure.
+These are not personalities. They are pressure routes. A single character can carry several. A whole team can distribute them. A scene can fail when too many routes compete without enough role separation.
 
 ## 2. Old cousins: Propp and Greimas
 

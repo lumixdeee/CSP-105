@@ -1,9 +1,8 @@
-# CSP-106 Asset Structure with Mogri
+# CSP-106 Asset Layout with Mogri
 
 ## 1. Overview
 
-**CSP-106** is a curated framework of semantic primitives, lists, and conceptual assets designed for cognitive modeling, prompt structuring, and AI-human interaction experiments.  
-- **Developer:** Julian Pursell  /  lumixdeee
+**CSP-106** is a curated framework of semantic primitives, lists, and conceptual assets designed for cognitive modeling, prompt design, and AI-human interaction experiments- **Developer:** Julian Pursell  /  lumixdeee
 - **Purpose:** Personal exploration, shareable for collaborative use  
 - **Key Feature:** Incremental, versioned lists for play, testing, and formalization  
 
@@ -86,4 +85,4 @@ Mogri is a **hypothetical container for “thing”**, containable or not, roote
 
 - Numbered primitives, lists, and Mogri examples encourage **incremental exploration**  
 - Gamified approach: watch numbers go up, track new primitives, measure stability improvements  
-- Safe to share: structured assets ensure **others benefit without risk of breaking prompt dynamics**  
+- Safe to share: documented assets ensure **others benefit without risk of breaking prompt dynamics**  

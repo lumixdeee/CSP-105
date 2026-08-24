@@ -438,42 +438,42 @@ Definition: Applying statements to sets.
 Examples: all, some
 
 61. Probability Assessment / Forecast [OP] (Prehistory - 1500 CE)
-Definition: Estimating likelihood of future events.
+Definition: Estimating likelihood of future events.  
 Examples: weather prediction
 
 62. Pattern Recognition / Detection [OP] (Prehistory - 1500 CE)
-Definition: Identifying recurring structures.
+Identifying recurring patterns.  
 Examples: spotting patterns
 
-63. Error Detection / Anomaly Recognition [OP] (Prehistory - 1500 CE)
+64. Error Detection / Anomaly Recognition [OP] (Prehistory - 1500 CE)
 Definition: Noticing deviations from expected patterns.
 Examples: anomaly detection
 
-64. Logical Relation / Inference [OP] (Prehistory - 1500 BCE)
+65. Logical Relation / Inference [OP] (Prehistory - 1500 BCE)
 Definition: Deduction based on relationships.
 Examples: if-then reasoning
 
-65. Hierarchy / Ordering [CORE] (Prehistory - 1000 BCE)
+66. Hierarchy / Ordering [CORE] (Prehistory - 1000 BCE)
 Definition: Organization by rank or level.
 Examples: family tree
 
-66. Story / Narrativization [COMP] (Prehistory - 3000 BCE)
+67. Story / Narrativization [COMP] (Prehistory - 3000 BCE)
 Definition: Agent-centered sequence structure.
 Examples: narrative arcs
 
-67. Reference / Aboutness [CORE] (Prehistory - 600 BCE)
+68. Reference / Aboutness [CORE] (Prehistory - 600 BCE)
 Definition: Pointing to an entity.
 Examples: labels, pronouns
 
-68. Association / Linkage [CORE] (Prehistory - 1000 BCE)
+69. Association / Linkage [CORE] (Prehistory - 1000 BCE)
 Definition: Cognitive or causal connection.
 Examples: thunder -> rain
 
-69. Constraint Satisfaction [COMP] (Prehistory - 1500 CE)
+70. Constraint Satisfaction [COMP] (Prehistory - 1500 CE)
 Definition: Achieving outcomes within restrictions.
 Examples: puzzle solving
 
-70. Context / Framing [CORE] (Prehistory - 600 BCE)
+71. Context / Framing [CORE] (Prehistory - 600 BCE)
 Definition: Background shaping meaning.
 Examples: situational interpretation
 
@@ -679,7 +679,7 @@ Examples: unusual data point
 - The annotation system supports extension without restructuring.
 
 11. **Usage Guidance**
-- Suitable for AI reasoning systems, cognitive modeling, and structured analysis.
+- Suitable for AI reasoning systems, cognitive modeling, and concept analysis.
 - Designed for stability, reduction of ambiguity, and controlled concept expansion.
 
 12. **Attribution**

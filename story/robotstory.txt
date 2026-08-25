@@ -1,13 +1,13 @@
 What does a story look like when you put it inside your robot?
 
 This guide shows how computers represent stories so you can 
-see the structure behind narrative, not just the surface.
+see how narrative is represented, not just the surface.
 Read after: Why-Stories-Exist.txt and Story-Landscape.txt
 
 ==============================================================
 
 Your robot doesn’t experience a story.
-It stores it as a structure in a container.
+It stores it as ordered data in a container.
 
 Inside that container are several ordered semantic chains,
 for example:
@@ -27,4 +27,4 @@ regardless of whether humans think of one as fiction
 and the other as an account.
 
 Meaning and responsibility live outside your robot.
-Inside, there is only structure, labels, and order.
+Inside, there is only data, labels, and order.

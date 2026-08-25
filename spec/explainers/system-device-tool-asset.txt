@@ -9,7 +9,7 @@ Do not introduce new categories. These are modes of relation within a system.
 ## CORE DEFINITIONS (primitive-aligned)
 
 ### SYSTEM
-A structure in which an actor exists and cannot fully exit during operation.
+An environment in which an actor exists and cannot fully exit during operation.
 
 - actor IN system
 - system affects actor continuously
@@ -68,7 +68,7 @@ Tool = device + active use
 ---
 
 ### ASSET
-A device (or constructed structure) positioned such that it continues to produce effects without continuous use.
+A device (or constructed installation) positioned such that it continues to produce effects without continuous use.
 
 - device EXISTS
 - device DOES over time

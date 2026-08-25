@@ -21,7 +21,7 @@ and
 "no complete account is accessible"
 is mogri:
 
-missing-but-important structure that is real,
+missing-but-important mechanism that is real,
 but distributed across disciplines,
 tacit skill,
 and context.

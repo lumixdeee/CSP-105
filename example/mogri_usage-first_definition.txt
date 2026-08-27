@@ -1,10 +1,45 @@
+MOGRI
+Usage-first definition
 
-foundational conceptual container (set holder)  
-foundational cognitive container (story holder)  
-general purpose container (anything holder)  
-placeholder for missing info (i will do it later holder)  
+Start here:
 
+Mogri is the irreducible root for holding an important unresolved semantic object before a useful distinction is fixed.
 
-it may always be derived from first principles from  
+Useful handles:
 
-  'a transmogrification is an unexplained change'  
+- foundational conceptual container
+- foundational cognitive container
+- general holding container for an active semantic object
+- named zero-stage for something important that must remain available while understanding is incomplete
+
+Do not read "container" as a box of facts.
+
+The held object may contain missing, disputed, unspecified, changing, or partly inaccessible material, but unknownness alone is not enough. It matters because forcing the distinction would risk invention, substitution, or loss.
+
+Mogri is not:
+
+- an entity
+- a cause
+- a generator
+- every unknown
+- unfinished work in general
+- a hidden memory claim
+
+Etymology:
+
+`transmogrification -> mogrification -> mogri`
+
+Early coinage phrase:
+
+`mogrification = the inexplicability of existence itself, in motion`
+
+That phrase records how the word was found. It is not a claim that reality literally requires a Mogri container.
+
+MOGRI is semantically irreducible even though its coinage can be traced through that word-history route.
+
+Simple test:
+
+`Can the important unresolved object survive without a made-up answer until a real distinction is supported?`
+
+If yes, the use is Mogri-compatible.
+

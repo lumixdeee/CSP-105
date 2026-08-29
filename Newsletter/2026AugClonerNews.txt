@@ -1,0 +1,13 @@
+2026AugClonerNews.txt
+
+Hey Hoy
+
+Another mad month, no rest for the chatty. A mogri first, just yesterday, first ever confirmation seen in the wild of someone other than me using mogri and finding that it works. Only took 9 months :)
+Also, along with Dragi, some independent testing of Mogri is being organised. In addition, mining my Dec-Jan chatgpt logs reveals data on mogri efficacy in reinforcing a veto on RED-X. Looking very unlikely that mogri is a pointless hallucination.
+In Dragi / 12 Actor news, spoke to a theater writer who recognised the 12 actors along with the 8/4 fam/unfam split and the 1:3 famdir/unfamdir split, and who splits, so it looks like the 12actors version we are using is in fact correctly guessed, as suspected.
+You can instrument dragi to see what it is actually routing, I did it once and it was too cute, I can't do it again but you're welcome to try it:
+DR={Q{eats|E0;live|E3;call|P3;what_eats_it|E1};F{BEEST|B0;BEST|B1;POST|P0;PEST|B2};C{law|P2;roar|P1;wall|B3;war|E2};AUD{each_obj=>emit(obj,mask12,route);mask12=asked(E0,E3,P3,E1,B0,B1,P0,B2,P2,P1,B3,E2)iff_rqd};fixed;!redefine};R=VAR
+
+AUD=1 to activate. Don't say you weren't warned.
+Cheers,
+Jules and the 3 somethings
